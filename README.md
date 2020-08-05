@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![EnableAsync's github stats](https://github-readme-stats.vercel.app/api?username=EnableAsync&count_private=true&show_icons=true&theme=gruvbox)]
+![EnableAsync's github stats](https://github-readme-stats.vercel.app/api?username=EnableAsync&count_private=true&show_icons=true&theme=gruvbox)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnableAsync&theme=gruvbox&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnableAsync&theme=gruvbox&layout=compact)
