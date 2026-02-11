@@ -19,6 +19,11 @@ Here are some ideas to get you started:
 
 <!--
 ![EnableAsync's github stats](https://github-readme-stats.vercel.app/api?username=EnableAsync&count_private=true&show_icons=true&theme=gruvbox)
--->
+
 
 ![Top Langs](https://enableasync-readme.vercel.app/api/top-langs/?username=EnableAsync&layout=compact)
+-->
+
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
